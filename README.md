@@ -1,3 +1,7 @@
+Data and Machine Learning projects that spark my interest:
+
+1. Video Games Regression Analysis Model: A linear regression model and a Logistic regression classifier to predict video game success based on key features. 
+
 
 
 
