@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Vedha P and I am an undergraduate student studying Computer and Information Science + Data Science
-- 📫 You can reach me at vedha.pant@gmail.com
+
 
 
 
